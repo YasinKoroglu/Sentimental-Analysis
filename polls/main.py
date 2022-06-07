@@ -33,7 +33,9 @@ pprint(nltk.word_tokenize(text)) # word_tokenize --> cümleyi kelemelere böler
 
 selam = nltk.word_tokenize(text)
 
-analysis=[w for w in selam if w.lower() not in stopwords]
+arr = ["-","'","--",")","("]
+
+analysis=[w for w in selam if w.lower() not in (stopwords and arr)]
 
 fd = nltk.FreqDist(analysis)
 

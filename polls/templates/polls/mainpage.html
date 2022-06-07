@@ -101,7 +101,7 @@ h1 {
 {% load static %}
 
 {% block content %}
-<form method="post" enctype="multipart/form-data" action="/regulated.html">
+<form method="post" enctype="multipart/form-data " action="/regulated">
   {% csrf_token %}
 
 <div class="wrapper">
@@ -115,7 +115,9 @@ h1 {
           <i class="fas fa-file-pdf" data-fa-transform="shrink-3 down-2 right-6 rotate-45"></i>
         </div>
         <input type="file" name="myfile" required>
-         <input type="submit"></input>
+        <a href="regulated">
+         <button type="submit" >Submit</button>
+        </a> 
         <p>Drag and drop files here, or 
           <a href="#" id="file-browser">brow
           </a> your computer.</p>
@@ -126,9 +128,7 @@ h1 {
 
 </form>
 
-<div>
-  <a href="regulated/">regulated</a>
-</div>
+
 
 
 {% endblock %}

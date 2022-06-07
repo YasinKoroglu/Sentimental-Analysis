@@ -1,0 +1,20 @@
+Bitmeyen Kısımlar;
+
+- 4.5.1.2 Staffing plan (Subclause 5.1.2 of the SPMP)
+- 4.5.1.3 Resource acquisition plan (Subclause 5.1.3 of the SPMP) 
+- 4.5.1.4 Project staff training plan (Subclause 5.1.4 of the SPMP) 
+- 4.5.2 Work plan (Subclause 5.2 of the SPMP) (Bu sadece başlık doldurmana gerek yok.)
+- 4.5.2.1 Work activities (Subclause 5.2.1 of the SPMP)  
+- 4.5.2.2 Schedule allocation (Subclause 5.2.2 of the SPMP) 
+- 4.5.2.4 Budget allocation (Subclause 5.2.4 of the SPMP) 
+- 4.5.3 Control plan (Subclause 5.3 of the SPMP) (Bu sadece başlık doldurmana gerek yok.)
+- 4.5.3.2 Schedule control plan (Subclause 5.3.2 of the SPMP) 
+- 4.5.3.3 Budget control plan (Subclause 5.3.3 of the SPMP) 
+- 4.5.3.5 Reporting plan (Subclause 5.3.5 of the SPMP) 
+
+
+
+------------------------------------
+- 4.5.3.6 Metrics collection plan (Subclause 5.3.6 of the SPMP) 
+- 4.5.5 Project closeout plan (Subclause 5.5 of the SPMP) 
+- 4.8 Additional plans (Clause 8 of the SPMP) 

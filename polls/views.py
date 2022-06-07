@@ -15,7 +15,7 @@ from . import main
 
 
 
-def simple_upload(request):
+def home(request):
     if request.method == 'POST':
         uploaded_file = request.FILES['myfile']
         

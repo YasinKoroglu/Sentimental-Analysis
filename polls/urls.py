@@ -2,7 +2,6 @@
 
 
 from django.urls import path
-from polls import views
 from . import views  
 from django.contrib.auth import views as auth_views
 from django.conf.urls.static import static
@@ -11,8 +10,8 @@ from django.conf import settings
 
 
 urlpatterns  = [
-    path('mainpage/' , views.simple_upload , name='mainpage'),
-    path('mainpage/regulated/' , views.regulated , name='regulated'),
+    path('' , views.home , name='home'),
+    path('regulated' , views.regulated, name='regulated' ),
 ]
 
 if settings.DEBUG:
